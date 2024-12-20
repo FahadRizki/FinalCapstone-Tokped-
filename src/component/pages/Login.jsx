@@ -103,6 +103,10 @@ function Login() {
                     <div    className="text-center text-gray-300">
                         Don't have an account?
                         <a  className="text-purple-300 hover:underline" href="#">Sign up</a>
+                       <div className="flex gap-2 justify-center">
+                        <h2>Usename: johnd</h2>
+                        <h2>Password: m38rmF$</h2>
+                       </div>
                     </div>
                     </div>
 
