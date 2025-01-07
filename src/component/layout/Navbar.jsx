@@ -44,7 +44,7 @@ function NavbarComponent() {
    
     return (
        <div className={isVisible ? "" : "fixed top-0 left-0 right-0 z-50"}>
-        <div className="flex p-4 gap-2 w-full bg-white">
+        <div className="flex p-4 justify-center gap-8 bg-white">
             <div className="p-3 sm:hidden lg:block">
                 <Link to="/">
                     <img className="w-52" src="https://images.tokopedia.net/assets-tokopedia-lite/v2/zeus/production/e5b8438b.svg" alt="" />

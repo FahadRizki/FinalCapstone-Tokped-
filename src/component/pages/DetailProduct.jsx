@@ -232,7 +232,7 @@ function DetailProduct() {
                     </div>
                     </Element>
                     {/* Card Jumlah */}
-                    <div className="card-jumlah border-solid border-slate-400 border-2 w-[40%] h-fit rounded-md ">
+                    <div className="card-jumlah border-solid border-slate-400 border-2 w-[30%] h-fit rounded-md ">
                         <h2 className="text-xl font-bold p-4">Atur jumlah dan catatan</h2>
                         <div className="flex gap-4 p-4 border-b-2">
                             <img className="w-16 h-16" src={productDetail.image} alt="" />
